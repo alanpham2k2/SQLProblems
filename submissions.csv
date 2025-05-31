@@ -1,3 +1,4 @@
+id,balance,interest_rate,rate_type,load_id
 1,5229.12,8.75,variable,2
 2,12727.52,11.37,fixed,4
 3,14996.58,8.25,fixed,9
